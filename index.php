@@ -13,12 +13,7 @@
       <div class="big-c">&nbsp;</div>
       <div class="small-c">&nbsp;</div>
     </div>
-    <!--
-    <div class="outer-circle">
-      <div class="inner-circle radial"></div>
-      <div class="glow">&nbsp;</div>
-    </div>
-    -->
+    Christian Campoli
   </div>
 <!-- Scripts -->
 <script src="prefixfree.min.js"></script>
