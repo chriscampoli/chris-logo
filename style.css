@@ -12,6 +12,10 @@ body { background-image: -webkit-radial-gradient(center center, circle cover, #f
   position: relative;
   margin: 0 auto;
   overflow: hidden;
+  transition-duration: 2s;
+}
+.logo:hover {
+  -webkit-transform: rotateY(180deg);
 }
 .big-c {
   position: absolute;
